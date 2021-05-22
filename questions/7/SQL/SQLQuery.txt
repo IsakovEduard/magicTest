@@ -1,0 +1,5 @@
+SELECT salary
+FROM employees
+	WHERE managerId IS NULL
+	ORDER BY salary DESC
+    LIMIT 1,1;

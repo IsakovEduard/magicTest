@@ -1,0 +1,7 @@
+[
+    {name: "item1", isExpired: false},
+    {name: "item2", isExpired: true},
+    {name: "item3", isExpired: true},
+    {name: "item4", isExpired: false},
+    {name: "item5", isExpired: false}
+]

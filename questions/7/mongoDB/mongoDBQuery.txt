@@ -1,0 +1,6 @@
+db.Employees.find(
+    {
+        "managerId" : null
+    })
+    .sort({"salary":-1})
+    .skip(1).limit(1)

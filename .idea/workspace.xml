@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5a18c26-7aae-437c-9e83-20b14e6e1e99" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/questions/1/question1.js" beforeDir="false" afterPath="$PROJECT_DIR$/questions/1/reedThenSort.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/questions/2/treeStructure.js" beforeDir="false" afterPath="$PROJECT_DIR$/questions/2/treeStructure.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1slQ3yH1pPE76laJ9akGCumfX0R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.16.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.17.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/questions/2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\eduar\WebstormProjects\magic_test\questions\2" />
+      <recent name="C:\Users\eduar\WebstormProjects\magic_test\questions\1" />
+      <recent name="C:\Users\eduar\WebstormProjects\magic_test\questions\3" />
+      <recent name="C:\Users\eduar\WebstormProjects\magic_test\questions\6" />
+      <recent name="C:\Users\eduar\WebstormProjects\magic_test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\eduar\WebstormProjects\magic_test\questions\rinatascode" />
+      <recent name="C:\Users\eduar\WebstormProjects\magic_test\questions\6\ver1" />
+      <recent name="C:\Users\eduar\WebstormProjects\magic_test\questions" />
+      <recent name="C:\Users\eduar\WebstormProjects\magic_test\questions\2" />
+      <recent name="C:\Users\eduar\WebstormProjects\magic_test\questions\1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.treeStructure.js">
+    <configuration name="question3_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/questions/3/question3_1.js" working-dir="$PROJECT_DIR$/questions/3">
+      <method v="2" />
+    </configuration>
+    <configuration name="question3.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/questions/rinatascode/question3.js" working-dir="$PROJECT_DIR$/questions/rinatascode">
+      <method v="2" />
+    </configuration>
+    <configuration name="reedThenSort.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/questions/1/reedThenSort.js" working-dir="$PROJECT_DIR$/questions/1">
+      <method v="2" />
+    </configuration>
+    <configuration name="treeSearch.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/questions/3/treeSearch.js" working-dir="$PROJECT_DIR$/questions/3">
+      <method v="2" />
+    </configuration>
+    <configuration name="treeStructure.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/questions/2/treeStructure.js" working-dir="$PROJECT_DIR$/questions/2">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.treeStructure.js" />
+        <item itemvalue="Node.js.reedThenSort.js" />
+        <item itemvalue="Node.js.treeSearch.js" />
+        <item itemvalue="Node.js.question3.js (1)" />
+        <item itemvalue="Node.js.question3_1.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5a18c26-7aae-437c-9e83-20b14e6e1e99" name="Default Changelist" comment="" />
+      <created>1621444500690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621444500690</updated>
+      <workItem from="1621444501767" duration="21511000" />
+      <workItem from="1621474110096" duration="720000" />
+      <workItem from="1621511968084" duration="9877000" />
+      <workItem from="1621522342882" duration="2147000" />
+      <workItem from="1621527398858" duration="34000" />
+      <workItem from="1621527439881" duration="1297000" />
+      <workItem from="1621545578196" duration="5887000" />
+      <workItem from="1621601885422" duration="4171000" />
+      <workItem from="1621615262901" duration="13114000" />
+      <workItem from="1621631017868" duration="101000" />
+      <workItem from="1621642170725" duration="4778000" />
+      <workItem from="1621681798288" duration="7865000" />
+      <workItem from="1621691721613" duration="1712000" />
+      <workItem from="1621694903895" duration="149000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="NodeJSConfigurationType">
+        <watch expression="tree.right.left" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

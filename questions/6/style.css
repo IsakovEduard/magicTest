@@ -1,0 +1,38 @@
+
+.redSquare {
+    display: flex;
+    width: 100px;
+    height: 100px;
+    background: red;
+}
+.whiteSquare{
+    width: 50%;
+    height: 50%;
+    margin: 25%;
+    background: white;
+}
+
+.redSquare1 {
+    margin-top: 10px;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+
+}
+.whiteSquare1{
+
+    position: relative;
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    top: 25%;
+    left: 25%;
+
+}
+.square{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border: 25px solid red;
+    margin-top: 10px;
+}
